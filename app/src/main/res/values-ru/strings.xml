@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Converter</string>
+    <string name="convert_from">Перевести ИЗ</string>
+    <string name="convert_to">В</string>
+    <string name="select_a_currency">Выберите валюту</string>
+    <string name="amount_to_convert">Сумма</string>
+    <string name="conversion_rate">Итого</string>
+    <string name="convert">КОНВЕРТИРОВАТЬ</string>
+    <string name="language">Язык</string>
+    <string name="english">Английский</string>
+    <string name="theme">Тема</string>
+    <string name="light_theme">Светлая тема   </string>
+    <string name="search">Поиск…</string>
+    <string name="converter">Конвертер</string>
+    <string name="settings">Настройки</string>
+</resources>

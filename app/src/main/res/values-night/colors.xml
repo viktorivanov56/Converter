@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background_color">#343435</color>
+    <color name="background_spinner_color">#F72B2A2A</color>
+    <color name="text_color_black">#FFFFFF</color>
+    <color name="text_color_black_light">#FDFDFC</color>
+    <color name="select_box">#606060</color>
+    <color name="select_box_text">#606060</color>
+    <color name="select_box_stroke">#CCCCCC</color>
+    <color name="hint_color">#FDFDFC</color>
+    <color name="conversion_text">#FDFDFC</color>
+    <color name="button_background">#F0AC2D64</color>
+    <color name="button_clicked_background">#F0951F4E</color>
+    <color name="button_text"></color>
+</resources>

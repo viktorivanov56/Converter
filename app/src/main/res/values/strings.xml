@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string name="convert_from">Convert From</string>
+    <string name="convert_to">Convert To</string>
+    <string name="select_a_currency">Select a currency</string>
+    <string name="amount_to_convert">Amount to convert</string>
+    <string name="conversion_rate">Conversion Rate</string>
+    <string name="convert">CONVERT</string>
+    <string name="language">Language</string>
+    <string name="english">English</string>
+    <string name="theme">Theme</string>
+    <string name="light_theme">Light Theme  </string>
+    <string name="search">Search...</string>
+    <string name="converter">Converter</string>
+    <string name="settings">Settings</string>
+</resources>
